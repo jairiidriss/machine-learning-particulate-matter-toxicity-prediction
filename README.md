@@ -69,7 +69,4 @@ Key features consistently identified as most influential: **Composition ETM**, *
 
 ## Reference
 
-If you use this code, please cite the original paper:
-  doi={10.1016/j.engappai.2024.109531}
-}
-```
+If you use this code, please cite the original paper.
